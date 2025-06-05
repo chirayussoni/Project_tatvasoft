@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/home/tatti/code/intern/day_4/Book_Management/Book_Management/Book_Management.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Book_Management/Book_Management.csproj",
         "packagesPath": "/home/tatti/.nuget/packages/",
         "outputPath": "/home/tatti/code/intern/day_4/Book_Management/Book_Management/obj/",
+=======
+    "/home/tatti/code/intern/Book_Management/Book_Management/Book_Management.csproj": {}
+  },
+  "projects": {
+    "/home/tatti/code/intern/Book_Management/Book_Management/Book_Management.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatti/code/intern/Book_Management/Book_Management/Book_Management.csproj",
+        "projectName": "Book_Management",
+        "projectPath": "/home/tatti/code/intern/Book_Management/Book_Management/Book_Management.csproj",
+        "packagesPath": "/home/tatti/.nuget/packages/",
+        "outputPath": "/home/tatti/code/intern/Book_Management/Book_Management/obj/",
+>>>>>>> aa1319a (comited)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tatti/.nuget/NuGet/NuGet.Config"
@@ -26,11 +40,19 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj": {
                 "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj"
               },
               "/home/tatti/code/intern/day_4/Book_Management/Books.Services/Books.Services.csproj": {
                 "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.Services/Books.Services.csproj"
+=======
+              "/home/tatti/code/intern/Book_Management/Books.Models/Books.Models.csproj": {
+                "projectPath": "/home/tatti/code/intern/Book_Management/Books.Models/Books.Models.csproj"
+              },
+              "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj": {
+                "projectPath": "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj"
+>>>>>>> aa1319a (comited)
               }
             }
           }
@@ -50,6 +72,7 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+<<<<<<< HEAD
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -64,6 +87,8 @@
               "target": "Package",
               "version": "[9.0.4, )"
             },
+=======
+>>>>>>> aa1319a (comited)
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -92,6 +117,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -100,6 +126,16 @@
         "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj",
         "packagesPath": "/home/tatti/.nuget/packages/",
         "outputPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/obj/",
+=======
+    "/home/tatti/code/intern/Book_Management/Books.Models/Books.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatti/code/intern/Book_Management/Books.Models/Books.Models.csproj",
+        "projectName": "Books.Models",
+        "projectPath": "/home/tatti/code/intern/Book_Management/Books.Models/Books.Models.csproj",
+        "packagesPath": "/home/tatti/.nuget/packages/",
+        "outputPath": "/home/tatti/code/intern/Book_Management/Books.Models/obj/",
+>>>>>>> aa1319a (comited)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tatti/.nuget/NuGet/NuGet.Config"
@@ -130,6 +166,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -156,6 +193,8 @@
               "version": "[9.0.4, )"
             }
           },
+=======
+>>>>>>> aa1319a (comited)
           "imports": [
             "net461",
             "net462",
@@ -176,6 +215,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/home/tatti/code/intern/day_4/Book_Management/Books.Services/Books.Services.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -184,6 +224,16 @@
         "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.Services/Books.Services.csproj",
         "packagesPath": "/home/tatti/.nuget/packages/",
         "outputPath": "/home/tatti/code/intern/day_4/Book_Management/Books.Services/obj/",
+=======
+    "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj",
+        "projectName": "Books.Services",
+        "projectPath": "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj",
+        "packagesPath": "/home/tatti/.nuget/packages/",
+        "outputPath": "/home/tatti/code/intern/Book_Management/Books.Services/obj/",
+>>>>>>> aa1319a (comited)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tatti/.nuget/NuGet/NuGet.Config"
@@ -197,11 +247,15 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+<<<<<<< HEAD
             "projectReferences": {
               "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj": {
                 "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj"
               }
             }
+=======
+            "projectReferences": {}
+>>>>>>> aa1319a (comited)
           }
         },
         "warningProperties": {

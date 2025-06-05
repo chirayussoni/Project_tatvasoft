@@ -9,7 +9,11 @@
     "Parameters": [
       {
         "Name": "book",
+<<<<<<< HEAD
         "Type": "Books.DataAccess.Models.Book",
+=======
+        "Type": "Book_Management.Models.Book",
+>>>>>>> aa1319a (comited)
         "IsRequired": true
       }
     ],
@@ -25,7 +29,11 @@
     "Parameters": [
       {
         "Name": "bookToBeUpdated",
+<<<<<<< HEAD
         "Type": "Books.DataAccess.Models.Book",
+=======
+        "Type": "Book_Management.Models.Book",
+>>>>>>> aa1319a (comited)
         "IsRequired": true
       }
     ],
@@ -57,7 +65,11 @@
     "Parameters": [],
     "ReturnTypes": [
       {
+<<<<<<< HEAD
         "Type": "System.Collections.Generic.List\u00601[[Books.DataAccess.Models.Book, Books.DataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+=======
+        "Type": "System.Collections.Generic.List\u00601[[Book_Management.Models.Book, Book_Management, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+>>>>>>> aa1319a (comited)
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -69,6 +81,7 @@
   },
   {
     "ContainingType": "Book_Management.Controllers.BooksController",
+<<<<<<< HEAD
     "Method": "GetFilteredBooks",
     "RelativePath": "api/Books/GetFilteredBooks",
     "HttpMethod": "GET",
@@ -85,6 +98,8 @@
   },
   {
     "ContainingType": "Book_Management.Controllers.BooksController",
+=======
+>>>>>>> aa1319a (comited)
     "Method": "GetBook",
     "RelativePath": "api/Books/GetSingleBook",
     "HttpMethod": "GET",
@@ -99,7 +114,11 @@
     ],
     "ReturnTypes": [
       {
+<<<<<<< HEAD
         "Type": "Books.DataAccess.Models.Book",
+=======
+        "Type": "Book_Management.Models.Book",
+>>>>>>> aa1319a (comited)
         "MediaTypes": [
           "text/plain",
           "application/json",

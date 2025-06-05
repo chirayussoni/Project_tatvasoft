@@ -6,8 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\Books.DataAccess\Books.DataAccess.csproj" />
   </ItemGroup>
 
+=======
+>>>>>>> aa1319a (comited)
 </Project>

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿using Books.DataAccess.Models;
 using Books.Services.Services;
+=======
+﻿using Book_Management.Models;
+using Book_Management.Services;
+>>>>>>> aa1319a (comited)
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,9 +14,15 @@ namespace Book_Management.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
+<<<<<<< HEAD
         private readonly BooksService _bookService;
 
         public BooksController(BooksService bookService)
+=======
+        private readonly BookService _bookService;
+
+        public BooksController(BookService bookService)
+>>>>>>> aa1319a (comited)
         {
             _bookService = bookService;
         }
@@ -20,7 +31,11 @@ namespace Book_Management.Controllers
         public ActionResult<List<Book>> GetAllBooks()
         {
             List<Book> books = _bookService.GetBooks();
+<<<<<<< HEAD
             if (books == null || books.Count == 0)
+=======
+            if(books == null || books.Count == 0)
+>>>>>>> aa1319a (comited)
             {
                 return NotFound("No books found");
             }
@@ -55,11 +70,19 @@ namespace Book_Management.Controllers
         public ActionResult UpdateBook(Book bookToBeUpdated)
         {
             int bookUpdateStatus = _bookService.UpdateBook(bookToBeUpdated);
+<<<<<<< HEAD
             if (bookUpdateStatus == -1)
             {
                 return NotFound("Book Not FOund");
             }
             else if (bookUpdateStatus == 1)
+=======
+            if(bookUpdateStatus == -1)
+            {
+                return NotFound("Book Not FOund");
+            }
+            else if(bookUpdateStatus == 1)
+>>>>>>> aa1319a (comited)
             {
                 return Ok("Book updated successfully");
             }
@@ -73,7 +96,11 @@ namespace Book_Management.Controllers
         public ActionResult DeleteBook(int id)
         {
             int deleteStatus = _bookService.DeleteBook(id);
+<<<<<<< HEAD
             if (deleteStatus == -1)
+=======
+            if(deleteStatus == -1)
+>>>>>>> aa1319a (comited)
             {
                 return NotFound("Book Not found");
             }
@@ -86,6 +113,7 @@ namespace Book_Management.Controllers
                 return BadRequest("Bad request");
             }
         }
+<<<<<<< HEAD
 
         [HttpGet("GetFilteredBooks")]
         public ActionResult GetFilteredBooks(string genre)
@@ -101,5 +129,7 @@ namespace Book_Management.Controllers
             }
 
         }
+=======
+>>>>>>> aa1319a (comited)
     }
 }

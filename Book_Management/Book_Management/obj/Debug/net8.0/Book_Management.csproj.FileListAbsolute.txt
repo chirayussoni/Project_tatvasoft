@@ -34,6 +34,7 @@ D:/Summer Internship/Book_Management/Book_Management/obj/Debug/net8.0/refint/Boo
 D:/Summer Internship/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.pdb
 D:/Summer Internship/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.genruntimeconfig.cache
 D:/Summer Internship/Book_Management/Book_Management/obj/Debug/net8.0/ref/Book_Management.dll
+<<<<<<< HEAD
 D:/Summer Internship/Book_Management/Book_Management/bin/Debug/net8.0/Humanizer.dll
 D:/Summer Internship/Book_Management/Book_Management/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
 D:/Summer Internship/Book_Management/Book_Management/bin/Debug/net8.0/Microsoft.Build.Locator.dll
@@ -416,3 +417,77 @@ D:/Summer Internship/Book_Management/Book_Management/bin/Debug/net8.0/Books.Serv
 /home/tatti/code/intern/day_4/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.pdb
 /home/tatti/code/intern/day_4/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.genruntimeconfig.cache
 /home/tatti/code/intern/day_4/Book_Management/Book_Management/obj/Debug/net8.0/ref/Book_Management.dll
+=======
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/appsettings.Development.json
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/appsettings.json
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.deps.json
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.runtimeconfig.json
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.pdb
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Books.Models.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Books.Services.dll
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Books.Models.pdb
+/home/tatti/code/Book_Management/Book_Management/bin/Debug/net8.0/Books.Services.pdb
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.csproj.AssemblyReference.cache
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.AssemblyInfoInputs.cache
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.AssemblyInfo.cs
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.csproj.CoreCompileInputs.cache
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.MvcApplicationPartsAssemblyInfo.cs
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.MvcApplicationPartsAssemblyInfo.cache
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.build.json
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.development.json
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.build.Book_Management.props
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Book_Management.props
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Book_Management.props
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.pack.json
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/scopedcss/bundle/Book_Management.styles.css
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Man.2EF232F1.Up2Date
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.dll
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/refint/Book_Management.dll
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.pdb
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.genruntimeconfig.cache
+/home/tatti/code/Book_Management/Book_Management/obj/Debug/net8.0/ref/Book_Management.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/appsettings.Development.json
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/appsettings.json
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.deps.json
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.runtimeconfig.json
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Book_Management.pdb
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Books.Models.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Books.Services.dll
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Books.Models.pdb
+/home/tatti/code/intern/Book_Management/Book_Management/bin/Debug/net8.0/Books.Services.pdb
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.csproj.AssemblyReference.cache
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.AssemblyInfoInputs.cache
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.AssemblyInfo.cs
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.csproj.CoreCompileInputs.cache
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.MvcApplicationPartsAssemblyInfo.cs
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.MvcApplicationPartsAssemblyInfo.cache
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.build.json
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.development.json
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.build.Book_Management.props
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Book_Management.props
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Book_Management.props
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/staticwebassets.pack.json
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/scopedcss/bundle/Book_Management.styles.css
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Man.2EF232F1.Up2Date
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.dll
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/refint/Book_Management.dll
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.pdb
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/Book_Management.genruntimeconfig.cache
+/home/tatti/code/intern/Book_Management/Book_Management/obj/Debug/net8.0/ref/Book_Management.dll
+>>>>>>> aa1319a (comited)

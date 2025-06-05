@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 using Books.DataAccess;
 using Books.DataAccess.Repositories;
 using Books.Services.Services;
 using Microsoft.EntityFrameworkCore;
+=======
+
+using Book_Management.Services;
+>>>>>>> aa1319a (comited)
 
 namespace Book_Management
 {
@@ -14,9 +19,13 @@ namespace Book_Management
             // Add services to the container.
 
             builder.Services.AddControllers();
+<<<<<<< HEAD
             builder.Services.AddDbContext<BooksDbContext>(db => db.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
             builder.Services.AddScoped<BooksService>();
             builder.Services.AddScoped<BooksRepository>();
+=======
+            builder.Services.AddSingleton<BookService>();
+>>>>>>> aa1319a (comited)
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

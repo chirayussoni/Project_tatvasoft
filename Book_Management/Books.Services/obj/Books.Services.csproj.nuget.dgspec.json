@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/home/tatti/code/intern/day_4/Book_Management/Books.Services/Books.Services.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/Books.DataAccess.csproj",
         "packagesPath": "/home/tatti/.nuget/packages/",
         "outputPath": "/home/tatti/code/intern/day_4/Book_Management/Books.DataAccess/obj/",
+=======
+    "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj": {}
+  },
+  "projects": {
+    "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj",
+        "projectName": "Books.Services",
+        "projectPath": "/home/tatti/code/intern/Book_Management/Books.Services/Books.Services.csproj",
+        "packagesPath": "/home/tatti/.nuget/packages/",
+        "outputPath": "/home/tatti/code/intern/Book_Management/Books.Services/obj/",
+>>>>>>> aa1319a (comited)
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tatti/.nuget/NuGet/NuGet.Config"
@@ -42,6 +56,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -130,6 +145,8 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+=======
+>>>>>>> aa1319a (comited)
           "imports": [
             "net461",
             "net462",
