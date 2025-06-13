@@ -1,0 +1,11 @@
+# .gitignore
+
+bin/
+obj/
+*.cache
+*.pdb
+*.user
+*.suo
+*.exe
+*.dll
+
